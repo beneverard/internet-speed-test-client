@@ -555,18 +555,6 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-log-prefix@0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/log-prefix/-/log-prefix-0.1.1.tgz#3ec492138c8044c9f9732298492dca87850cac90"
-  integrity sha512-aP1Lst8OCdZKATqzXDN0JBissNVZuiKLyo6hOXDBxaQ1jHDsaxh2J1i5Pp0zMy6ayTKDWfUlLMXyLaQe1PJ48g==
-
-log-timestamp@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/log-timestamp/-/log-timestamp-0.3.0.tgz#2e10f1f0db872674ef3ecf53d6a312840acae45f"
-  integrity sha512-luRz6soxijd1aJh0GkLXFjKABihxthvTfWTzu3XhCgg5EivG2bsTpSd63QFbUgS+/KmFtL+0RfSpeaD2QvOV8Q==
-  dependencies:
-    log-prefix "0.1.1"
-
 media-typer@0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
@@ -850,9 +838,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 range-parser@~1.2.1:
   version "1.2.1"
